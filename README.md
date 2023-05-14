@@ -11,5 +11,5 @@
 
 [Лекция 5](https://github.com/klyshinsky/NLP_VVSU_2023/blob/main/Lecture_5_Reduce_Space.ipynb) - Сокращение размерности пространства признаков.
 
-
+[Лекция 6](https://github.com/klyshinsky/NLP_VVSU_2023/blob/main/Lecture_6_Topic_Modelling.ipynb) - Тематическое моделирование.
 
