@@ -13,3 +13,7 @@
 
 [Лекция 6](https://github.com/klyshinsky/NLP_VVSU_2023/blob/main/Lecture_6_Topic_Modelling.ipynb) - Тематическое моделирование.
 
+[Лекция 7](https://github.com/klyshinsky/NLP_VVSU_2023/blob/main/Lecture_7_W2V_Bert.ipynb) - Векторизация текстов.
+
+[Лекция 8](https://github.com/klyshinsky/NLP_VVSU_2023/blob/main/Lecture_8_NER_disambiguation.ipynb) - Снятие омонимии.
+
