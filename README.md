@@ -17,3 +17,6 @@
 
 [Лекция 8](https://github.com/klyshinsky/NLP_VVSU_2023/blob/main/Lecture_8_NER_disambiguation.ipynb) - Снятие омонимии.
 
+[Дополнительные материалы 1](https://github.com/klyshinsky/NLP_VVSU_2023/blob/main/Lecture_extra_1_Clustering.ipynb) - Кластеризация.
+
+[Дополнительные материалы 2](https://github.com/klyshinsky/NLP_VVSU_2023/blob/main/Lexture_extra_2_Statistict.ipynb) - Откуда берется доверительный интервал и как понять, что надо больше экспериментальных данных.
